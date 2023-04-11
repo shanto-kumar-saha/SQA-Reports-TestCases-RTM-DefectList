@@ -1,4 +1,5 @@
-# SQA-ReportsWork
+# SQA-TestCases-RTM-DefectReports-Works
+
 In this repository I have attached all of my Test Cases, Defect Reports, RTM Reports work links.
 
 Test Cases:
