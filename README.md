@@ -13,5 +13,5 @@ Defect Reports Links:
 [Demo Defect Report](https://docs.google.com/spreadsheets/d/1GdzB8_Gt843HReK51oMohKEY_uZT_Ka186NfZYzsE2Q/edit#gid=0)
 
 Requirements Tracebility Matrix Reports Link:
-[RTM](https://docs.google.com/spreadsheets/d/1JpRjTEPo75pMSrxjq9n1DiW2_EELjkxGXcRTplrwIg8/edit#gid=0)
+[RTM Report](https://docs.google.com/spreadsheets/d/1JpRjTEPo75pMSrxjq9n1DiW2_EELjkxGXcRTplrwIg8/edit#gid=0)
 
