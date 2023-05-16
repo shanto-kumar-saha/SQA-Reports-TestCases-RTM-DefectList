@@ -21,7 +21,7 @@ Defect Reports Links:
 Requirements Tracebility Matrix Reports Link:
 [RTM Report](https://docs.google.com/spreadsheets/d/1JpRjTEPo75pMSrxjq9n1DiW2_EELjkxGXcRTplrwIg8/edit#gid=0)
 
-# Reports Screenshot-
+# Some Reports Screenshot
 
 ## Aion Tribute Website Test Cases:
 
