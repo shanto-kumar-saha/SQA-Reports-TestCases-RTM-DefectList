@@ -29,7 +29,8 @@ Requirements Tracebility Matrix Reports Link:
 
 ## QR Code Test Case:
 
-![QR code test case](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/6c819d30-253c-433b-8e64-c734d696f11d)
+![QR Code Test Case1](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/32059ac7-ac08-4c1f-b52c-48f4b95a1311)
+
 
 ## Defect Reports:
 
