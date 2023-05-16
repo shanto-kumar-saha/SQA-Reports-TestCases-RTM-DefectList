@@ -3,7 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 ## 📝 Description 
-In this repository I have attached all of my Test Cases, Defect Reports, RTM Reports work links.
+In this repository I have attached all of my written Test Cases, Defect Reports, RTM Reports work links.
 
 Test Cases Links:
 [Aion Tribute Website Test Case](https://docs.google.com/spreadsheets/d/1iCeCMpGmYNfzVuoewE8cBRSDacS0XC9oykBJqgZdUco/edit?usp=sharing) //
@@ -20,4 +20,23 @@ Defect Reports Links:
 
 Requirements Tracebility Matrix Reports Link:
 [RTM Report](https://docs.google.com/spreadsheets/d/1JpRjTEPo75pMSrxjq9n1DiW2_EELjkxGXcRTplrwIg8/edit#gid=0)
+
+## Reports Screenshot
+
+## Aion Tribute Website Test Cases:
+
+![AION TestCase](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/a6cfcd58-9970-488a-ab6c-26e25dc6a2dd)
+
+## QR Code Test Case:
+
+![QR code test case](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/6c819d30-253c-433b-8e64-c734d696f11d)
+
+## Defect Reports:
+
+![Defect Reports](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/30ae337b-2cbd-4d44-ac00-3fb6107569c7)
+
+## RTM Reports:
+
+![RTM](https://github.com/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/assets/122052172/a8b4e06f-edbc-4e4b-b855-c2e42b9b048d)
+
 
