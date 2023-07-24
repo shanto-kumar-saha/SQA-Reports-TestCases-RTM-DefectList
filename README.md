@@ -1,6 +1,7 @@
-# SQA-TestCases-RTM-DefectReports-Works
+<h1 id="title" align="center">SQA Reports</h1>
 
-<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQA-TestCases-RTM-DefectReports-Works/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQAReports-TestCases-RTM-DefectList/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 # 📝 Description 
 In this repository I have attached all of my written Test Cases, Defect Reports, RTM Reports work links.
