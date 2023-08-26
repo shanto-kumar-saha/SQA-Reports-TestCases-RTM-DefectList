@@ -31,6 +31,8 @@ In this repository I have attached all of my written Test Cases, Defect Reports,
 
  
 ## Requirements Tracebility Matrix Reports Link-
+
+[Brac UPG RTM Report](https://docs.google.com/spreadsheets/d/1lZrnwKj5oufE7r3pCX8SFWlrEqwZLBG9_tCtUFJ9hiE/edit?usp=sharing) //
 [RTM Report](https://docs.google.com/spreadsheets/d/1JpRjTEPo75pMSrxjq9n1DiW2_EELjkxGXcRTplrwIg8/edit#gid=0)
 
 
