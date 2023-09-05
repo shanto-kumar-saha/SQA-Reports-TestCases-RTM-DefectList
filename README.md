@@ -8,8 +8,9 @@ In this repository I have attached all of my written Test Cases, Defect Reports,
 
 ## Test Cases Links-
 
-[OrangeHRM](https://docs.google.com/spreadsheets/d/1OjAHiQ-w-0d2x-kNbzBYY2mrcRGnR9cGVRoBj19smLk/edit?usp=sharing) //
+[Brac UPG](https://docs.google.com/spreadsheets/d/1AUIJsRTRXlUGSYlupYQEzQI61iAMJzxw4IJnl4YUIjE/edit#gid=3146519150) //
 [TMS](https://docs.google.com/spreadsheets/d/1cACBm7frzfvjbsbW5-Ew9ILSQKBEY4Ay/edit?usp=sharing&ouid=114719976392825278555&rtpof=true&sd=true) //
+[OrangeHRM](https://docs.google.com/spreadsheets/d/1OjAHiQ-w-0d2x-kNbzBYY2mrcRGnR9cGVRoBj19smLk/edit?usp=sharing) //
 [Aion Tribute Website Test Case](https://docs.google.com/spreadsheets/d/1iCeCMpGmYNfzVuoewE8cBRSDacS0XC9oykBJqgZdUco/edit?usp=sharing) //
 [Soha Mobile App Test Case](https://docs.google.com/spreadsheets/d/1aldj-pGFP68uc8ndS38fDNMZ21yGhkYWZAIT3OB0Fao/edit?usp=sharing) //
 [QR Code Functionality Test Case](https://docs.google.com/spreadsheets/d/1FVF19TfNT230P-zU4qKlENSsob0I3Es5kBb4zzk4Tyc/edit?usp=sharing) //
