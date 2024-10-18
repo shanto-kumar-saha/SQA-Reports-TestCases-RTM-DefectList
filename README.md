@@ -4,7 +4,7 @@
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/SQAReports-TestCases-RTM-DefectList/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 # 📝 Description 
-In this repository I have attached all of my written Test Cases, Defect Reports, RTM Reports work links.
+In this repository, I've included links to my Test Cases, Defect Reports, and RTM Reports. These reports are key to my role as an SQA Engineer, offering a transparent and organized view of my testing documentation.
 
 ## Test Cases Links-
 
